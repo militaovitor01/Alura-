@@ -2,6 +2,11 @@
 
 Este projeto é uma página web fictícia para o serviço de streaming "Alura Plus". A página é foi desenvolvida com a ajuda do curso de Front End da Alura, utilizando HTML5 e CSS3, com foco em Flexbox e Grid para o layout. A seguir, são apresentadas as instruções e a estrutura do projeto.
 
+Deploy Link: https://alura-plus-indol-chi.vercel.app/
+
+![image](https://github.com/user-attachments/assets/2506c7ce-4bca-4d4c-8fae-fe588a146e37)
+
+
 ## Índice
 
 1. [Estrutura de Arquivos](#estrutura-de-arquivos)
